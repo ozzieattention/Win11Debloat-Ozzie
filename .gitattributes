@@ -1,0 +1,4 @@
+# Script ve bat dosyaları olduğu gibi (UTF-8 BOM + CRLF) saklansın; raw indirmede Türkçe karakterler bozulmasın
+*.ps1 -text
+*.bat -text
+*.png binary
