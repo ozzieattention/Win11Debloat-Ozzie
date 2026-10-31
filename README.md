@@ -131,6 +131,6 @@ A step-by-step wizard:
 
 Feature list inspired by [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) (MIT). Code written from scratch.
 
-Made by **Ozzie**
+Made by **Ozzie** · [MIT License](LICENSE)
 
 </div>
